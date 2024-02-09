@@ -1,0 +1,14 @@
+{
+  "name": "quick-easy-versioning",
+  "version": "0.0.1",
+  "description": "quick way of versioning",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "run": " node index.js",
+    "dev": "nodemon index.js",
+    "version": "echo \"Error: no version specified\" && exit 1"
+  },
+  "author": "SparksTheFolf",
+  "license": "ISC"
+}
