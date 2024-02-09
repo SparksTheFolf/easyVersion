@@ -2,7 +2,7 @@
   "name": "quick-easy-versioning",
   "version": "0.0.1",
   "description": "quick way of versioning",
-  "main": "index.js",
+  "main": "package/index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "run": " node index.js",
@@ -10,5 +10,9 @@
     "version": "echo \"Error: no version specified\" && exit 1"
   },
   "author": "SparksTheFolf",
-  "license": "ISC"
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/SparksTheFolf/easyVersion.git"
+  }
 }
